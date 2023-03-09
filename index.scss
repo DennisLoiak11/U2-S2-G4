@@ -1,1 +1,8 @@
 @import "bootstrap-override.scss";
+
+//font
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+.hero{
+    background-color: $purple;
+}
